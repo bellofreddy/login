@@ -12,7 +12,7 @@
   --red: #dc3545;
   --orange: #fd7e14;
   --yellow: #ffc107;
-  --green: #28a745;
+  --green: #a72828;
   --teal: #20c997;
   --cyan: #17a2b8;
   --white: #fff;
@@ -1911,7 +1911,7 @@ textarea.form-control {
   display: block; }
 
 .was-validated .form-check-input:invalid ~ .form-check-label, .form-check-input.is-invalid ~ .form-check-label {
-  color: #dc3545; }
+  color: #05216e; }
 
 .was-validated .form-check-input:invalid ~ .invalid-feedback,
 .was-validated .form-check-input:invalid ~ .invalid-tooltip, .form-check-input.is-invalid ~ .invalid-feedback,
@@ -8201,7 +8201,7 @@ h1, h2, h3, h4, h5,
   background: -ms-linear-gradient(-45deg, #f75959 0%, #f35587 100%);
   background: -webkit-linear-gradient(315deg, #f75959 0%, #f35587 100%);
   background: -o-linear-gradient(315deg, #f75959 0%, #f35587 100%);
-  background: linear-gradient(135deg, #f75959 0%, #f35587 100%);
+  background: linear-gradient(135deg, #004085 0%, #f35587 100%);
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f75959', endColorstr='#f35587', GradientType=1 );
   color: #fff; }
   .text-wrap .text h2 {
